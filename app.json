@@ -20,15 +20,15 @@
     },
     "ALIVE_NAME": {
       "description": "Enter Username Here ",
-      "value": ""
+      "value": "@killerboy67"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "3258812"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "db94b5b4c84724e55587071981a27a5c"
     },
     "NOSPAMPLUS_TOKEN": {
       "description": "Your Token From @NospamPlusBot",
@@ -46,11 +46,11 @@
     },
     "PRIVATE_GROUP_ID": {
       "description": "A Group ID Where You Want To Log Important Logs.",
-      "value": ""
+      "value": "-516569684"
     },
     "STRING_SESSION": {
       "description": "Get From Repl.run Or Run Locally",
-      "value": ""
+      "value": "1BVtsOJQBuwgULaSXvi82l3jJXfi4h1bJ5tgWaVUWMM8e5Ap5J3wFaqtRq6TDOjN4ecHskII13JWnkrmokaKMKKos0naQ9IjZLswD99e3AMF4t_7ItDATLROub8-G7Zl72YTNPpXZxVHUtkaW0EHgJXJ0_E4lLmTcXOGa8sTncWov6n_SUoLcpWpRHoUNuigSIaeVRf5jkQjldzhqvVe5g5Md9qplIrKKjkGC2gXlBORvTpFyMa0cYq8e8zP6FUm90VchZ3sYqiwE7UQzV04DSXR7YJqB7xWmsCRaB7nakTjx6vTQTZJPnA-r8SaQy6Y0cRqfUJw-KHyXQxCOKI8lT2U_hYNiTrE="
     },
     "TESSDATA_PREFIX": {
       "description": "Pytesserct Path. Don't Edit Until You Know What Are You Doing. Just leave it As it is.",
@@ -71,7 +71,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Your Bot Token Obtained From @BotFather.",
-      "value": ""
+      "value": "1611466699:AAE0VNYRr4hJlHHSbNgI_cVTHOkvHB_heEA"
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
       "description": "Needed for autopic module. A url that is a preview link of your Profile Pic",
